@@ -5,13 +5,12 @@ Uma ferramenta com IA que transforma imagem para texto com uma descrição do am
 A ferramenta utiliza o modelo GEMINI-PRO-VISION para a transformação da imagem para texto
 
 ![](https://github.com/Henriquerezer/Image-to-Text-to-Audio/assets/87787728/7d2e3b65-b2d3-4471-adc4-2df30f8fa69d)
-![](https://github.com/Henriquerezer/Image-to-Text-to-Audio/assets/87787728/d0463153-2f5d-445d-b73a-f23370fda094)
+![](https://github.com/Henriquerezer/Alura-gemini-week/assets/87787728/823fe438-ba1b-4790-ad7a-59c8bbed6127)
 
 ## Configuração do Ambiente
 
 ### Pré-requisitos
 - Python 3.8+
-- Bibliotecas: Streamlit, Pillow, python-dotenv, requests
 
 # requirements
 
@@ -21,7 +20,7 @@ A ferramenta utiliza o modelo GEMINI-PRO-VISION para a transformação da imagem
 - langchain
 - requests
 - streamlit
-- openai
+- google.generativeai
 
 ### Configuração das Chaves de API
 Adicione suas chaves de API ao arquivo .env na raiz do projeto:
